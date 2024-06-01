@@ -3,4 +3,4 @@
 # Creating the BlogAuthor.cs the BlogAuthorController.cs and Create.cshtml page. 
 Showing with a GIF how my part of the site works and the code snippet for it.
 ![alt text](https://github.com/Neomonkey1/C--.NET-Live-Project/blob/main/SiteVideoPart1.gif)
-![alt text](Neomonkey1/C--.NET-Live-Project/blob/main/BlogAuthorCS.png)
+![alt text](https://github.com/Neomonkey1/C--.NET-Live-Project/blob/main/BlogAuthorCS.png)
