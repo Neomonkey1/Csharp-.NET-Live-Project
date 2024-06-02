@@ -11,4 +11,15 @@ Showing with a GIF how my part of the site works and the code snippet for it.
 <img src="https://github.com/Neomonkey1/C--.NET-Live-Project/blob/main/CreateCSHTMLpart1.png" alt="alt text" style="width:400px; height:300px;">
 <img src="https://github.com/Neomonkey1/C--.NET-Live-Project/blob/main/CreateCSHTMLpart2.png" alt="alt text" style="width:400px; height:300px;">
 
-# 
+# Creating the Index.CSHTML and BlogAuthor.CSHTML page
+
+![alt text](https://github.com/Neomonkey1/C--.NET-Live-Project/blob/main/SiteVideoPart2.gif)
+<img src="https://github.com/Neomonkey1/C--.NET-Live-Project/blob/main/IndexCSHTMLpage.png" alt="alt text" style="width:400px; height:300px;">
+<img src="https://github.com/Neomonkey1/C--.NET-Live-Project/blob/main/BlogAuthorCSHTMLpage.png" alt="alt text" style="width:400px; height:300px;">
+
+# Creating the Details.CSHTML page
+
+![alt text](https://github.com/Neomonkey1/C--.NET-Live-Project/blob/main/SiteVideoPart3.gif)
+<img src="https://github.com/Neomonkey1/C--.NET-Live-Project/blob/main/DetailsCSHTMLpart1.png" alt="alt text" style="width:400px; height:300px;">
+<img src="https://github.com/Neomonkey1/C--.NET-Live-Project/blob/main/DetailsCSHTMLpart2.png" alt="alt text" style="width:400px; height:300px;">
+<img src="https://github.com/Neomonkey1/C--.NET-Live-Project/blob/main/DetailsCSHTMLpart3.png" alt="alt text" style="width:400px; height:300px;">
