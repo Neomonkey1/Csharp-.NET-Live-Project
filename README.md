@@ -23,7 +23,6 @@ Showing with a GIF how my part of the site works and the code snippet for it.
 <img src="https://github.com/Neomonkey1/C--.NET-Live-Project/blob/main/CreateCSHTMLpart2.png" alt="alt text" style="width:400px; height:300px;">
 
 ## Creating the Index.CSHTML and BlogAuthor.CSHTML page <a id="index"></a>
-[Link to Creating the Index.CSHTML and BlogAuthor.CSHTML page](#Index)
 
 ![alt text](https://github.com/Neomonkey1/C--.NET-Live-Project/blob/main/SiteVideoPart2.gif)
 <img src="https://github.com/Neomonkey1/C--.NET-Live-Project/blob/main/IndexCSHTMLpage.png" alt="alt text" style="width:400px; height:300px;">
