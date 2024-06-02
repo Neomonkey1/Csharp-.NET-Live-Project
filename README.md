@@ -1,5 +1,6 @@
 ## C\# & .NET Live Project <a id="top"></a>
-[Top of page](#top) | [Link to Creating the BlogAuthor.cs the BlogAuthorController.cs and Create.cshtml page.](#Create) | [Link to Creating the Index.CSHTML and BlogAuthor.CSHTML page](#Index) | [Link to Creating the Details.CSHTML page](#Details) | [Link to Creating the Edit.CSHTML page](#Edit) | [Link to Creating the Delete.CSHTML page](#Delete) | [Link to Creating the Blog.CSS file](#Bottom)
+[Top of page](#top)    [Link to Creating the BlogAuthor.cs the BlogAuthorController.cs and Create.cshtml page.](#Create)    [Link to Creating the Index.CSHTML and BlogAuthor.CSHTML page](#Index)    [Link to Creating the Details.CSHTML page](#Details) 
+   [Link to Creating the Edit.CSHTML page](#Edit)    [Link to Creating the Delete.CSHTML page](#Delete)    [Link to Creating the Blog.CSS file](#Bottom)
 
  Showing the work I did within the C# and .NET Two week Live Project updating a MVC web app. For the two weeks I was part of team working to update some features per the request of the "cilent". Within this project I used C#, .NET, Entity framework, CSS and many other to meet the "cilent's" requirements.
 ## Creating the BlogAuthor.cs the BlogAuthorController.cs and Create.cshtml page. <a id="Create"></a>
@@ -49,4 +50,4 @@ Showing with a GIF how my part of the site works and the code snippet for it.
 <img src="https://github.com/Neomonkey1/C--.NET-Live-Project/blob/main/BlogCSSpart4.png" alt="alt text" style="width:400px; height:300px;">
 <img src="https://github.com/Neomonkey1/C--.NET-Live-Project/blob/main/BlogCSSpart5.png" alt="alt text" style="width:400px; height:300px;">
 
-[Top of page](#top) | [Link to Creating the BlogAuthor.cs the BlogAuthorController.cs and Create.cshtml page.](#Create) | [Link to Creating the Index.CSHTML and BlogAuthor.CSHTML page](#Index) | [Link to Creating the Details.CSHTML page](#Details) | [Link to Creating the Edit.CSHTML page](#Edit) | [Link to Creating the Delete.CSHTML page](#Delete) | [Link to Creating the Blog.CSS file](#Bottom)
+[Top of page](#top)   [Link to Creating the BlogAuthor.cs the BlogAuthorController.cs and Create.cshtml page.](#Create)    [Link to Creating the Index.CSHTML and BlogAuthor.CSHTML page](#Index)    [Link to Creating the Details.CSHTML page](#Details) | [Link to Creating the Edit.CSHTML page](#Edit)    [Link to Creating the Delete.CSHTML page](#Delete)    [Link to Creating the Blog.CSS file](#Bottom)
