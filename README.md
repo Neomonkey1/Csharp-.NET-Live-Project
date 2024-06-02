@@ -23,3 +23,24 @@ Showing with a GIF how my part of the site works and the code snippet for it.
 <img src="https://github.com/Neomonkey1/C--.NET-Live-Project/blob/main/DetailsCSHTMLpart1.png" alt="alt text" style="width:400px; height:300px;">
 <img src="https://github.com/Neomonkey1/C--.NET-Live-Project/blob/main/DetailsCSHTMLpart2.png" alt="alt text" style="width:400px; height:300px;">
 <img src="https://github.com/Neomonkey1/C--.NET-Live-Project/blob/main/DetailsCSHTMLpart3.png" alt="alt text" style="width:400px; height:300px;">
+
+# Creating the Edit.CSHTML page
+
+![alt text](https://github.com/Neomonkey1/C--.NET-Live-Project/blob/main/SiteVideoPart4.gif)
+<img src="https://github.com/Neomonkey1/C--.NET-Live-Project/blob/main/EditCSHTMLpart1.png" alt="alt text" style="width:400px; height:300px;">
+<img src="https://github.com/Neomonkey1/C--.NET-Live-Project/blob/main/EditCSHTMLpart2.png" alt="alt text" style="width:400px; height:300px;">
+
+# Creating the Delete.CSHTML page
+
+![alt text](https://github.com/Neomonkey1/C--.NET-Live-Project/blob/main/SiteVideoPart5.gif)
+<img src="https://github.com/Neomonkey1/C--.NET-Live-Project/blob/main/DeleteCSHTMLpart1.png" alt="alt text" style="width:400px; height:300px;">
+<img src="https://github.com/Neomonkey1/C--.NET-Live-Project/blob/main/DeleteCSHTMLpart2.png" alt="alt text" style="width:400px; height:300px;">
+<img src="https://github.com/Neomonkey1/C--.NET-Live-Project/blob/main/DeleteCSHTMLpart3.png" alt="alt text" style="width:400px; height:300px;">
+
+# Creating the Blog.CSS file
+
+<img src="https://github.com/Neomonkey1/C--.NET-Live-Project/blob/main/BlogCSSpart1.png" alt="alt text" style="width:400px; height:300px;">
+<img src="https://github.com/Neomonkey1/C--.NET-Live-Project/blob/main/BlogCSSpart2.png" alt="alt text" style="width:400px; height:300px;">
+<img src="https://github.com/Neomonkey1/C--.NET-Live-Project/blob/main/BlogCSSpart3.png" alt="alt text" style="width:400px; height:300px;">
+<img src="https://github.com/Neomonkey1/C--.NET-Live-Project/blob/main/BlogCSSpart4.png" alt="alt text" style="width:400px; height:300px;">
+<img src="https://github.com/Neomonkey1/C--.NET-Live-Project/blob/main/BlogCSSpart5.png" alt="alt text" style="width:400px; height:300px;">
